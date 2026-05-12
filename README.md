@@ -66,7 +66,7 @@ Não busco apenas construir interfaces, busco construir sensações.
 ## 🌙 GitHub stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jlongyue&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=larypeixoto&theme=tokyonight" />
 </div>
 
 > “Interfaces não são telas. São atmosferas.”
