@@ -20,7 +20,6 @@ Ainda estou no início da minha cultivação no mundo do código. Entre linhas d
 - 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas
 - 💻 **Em formação Full Stack** – com interesse especial pelo Front
 - 📜 **Certificada** pelo Serratec e Firjan Senai como Desenvolvedora Full Stack
-- 
 
 ## ⚔️ Tecnologias que cultivo
 
